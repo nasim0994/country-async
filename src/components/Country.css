@@ -1,0 +1,9 @@
+.card img {
+  width: 100%;
+  height: 200px;
+}
+.card {
+  padding: 15px;
+  height: 400px;
+  background-color: darkgray;
+}
